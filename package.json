@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://concalve911.github.io/todo-redux/",
+  "homepage": "https://concalve911.github.io/test-todo/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
